@@ -1,12 +1,18 @@
+
 {
-    "NguoiDung": {
-        "taikhoan": "taikhoan01",
-        "matkhau": "matkhau01"
-    }
-}
-{
-    "NguoiDung": {
-        "taikhoan": "taikhoan",
-        "matkhau": "matkhau"
-    }
+  "NguoiDung": [
+    {
+      
+      "name": "Tuan",
+      "taikhoan": "taikhoan1",
+      "matkhau": 1
+    },
+    {
+    
+      "name": "Tuhy",
+      "taikhoan": "b@gmail.com",
+      "matkhau": 1
+    },
+    
+  ]
 }
